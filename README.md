@@ -4,7 +4,7 @@
 
 `protobuf-ts-types` lets you define language-agnostic `message` types in `proto` format, then infers TypeScript types from them with no additional codegen.
 
-[Try on github.dev](https://github.dev/nathanhleung/protobuf-ts-types/blob/main/examples/basic/index.ts) | [View on CodeSandbox](https://codesandbox.io/p/github/nathanhleung/protobuf-ts-types/main?import=true&embed=1&file=%2Fexamples%2Fbasic%2Findex.ts)
+[Try on github.dev](https://github.dev/nathanhleung/protobuf-ts-types/blob/main/examples/basic/index.ts) | [View on CodeSandbox](https://codesandbox.io/p/github/nathanhleung/protobuf-ts-types/main?import=true&embed=1&file=%2Fexamples%2Fbasic%2Findex.ts) | [Discuss on Hacker News](https://news.ycombinator.com/item?id=43682547)
 
 > [!WARNING]
 > Proof of concept, not production ready. See [Limitations](#limitations) below for more details.
